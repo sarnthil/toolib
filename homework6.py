@@ -1,0 +1,1 @@
+../drive/vulprița/python/homeworks/6/homework6.py
